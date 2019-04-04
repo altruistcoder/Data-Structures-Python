@@ -1,4 +1,4 @@
-# Machine-Learning-Implementations
+# Data Structures in Python
 
 
 This is a repository containing various python programs to understand the basic concepts of Data Structures and Algorithms.
