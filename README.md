@@ -30,3 +30,7 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for performing decreasing frequency-wise sorting on a given array.
 
+* [Checking Sorting of Array with atmost One Swapping of Elements](https://github.com/altruistcoder/Data-Structures-Python/blob/master/check_one_swap_sort.py):
+
+  Python Code for checking whether it is possible or not to sort the given array by doing atmost one swapping of elements.
+
