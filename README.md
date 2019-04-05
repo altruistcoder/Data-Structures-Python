@@ -22,6 +22,10 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for chcking the balancing of Parenthesis.
 
+* [Generate Balanced Parenthesis](https://github.com/altruistcoder/Data-Structures-Python/blob/master/generate_parenthesis.py):
+
+  Python Code to generate balanced parenthesis of the given order.
+
 * [Decreasing Frequency-Wise Array Sorting](https://github.com/altruistcoder/Data-Structures-Python/blob/master/decreasing_frequency_wise_sorting.py):
 
   Python Code for performing decreasing frequency-wise sorting on a given array.
