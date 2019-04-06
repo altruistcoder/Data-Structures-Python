@@ -18,6 +18,10 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for performing Randomized version of Quick Sort.
 
+* [Selection Sort](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Sorting%20Algorithms/selection_sort.py):
+
+  Python Code for performing Selection Sort.
+
 * [Parenthesis Balancing](https://github.com/altruistcoder/Data-Structures-Python/blob/master/parenthesis_balanced_checking.py):
 
   Python Code for chcking the balancing of Parenthesis.
