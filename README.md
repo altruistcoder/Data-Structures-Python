@@ -18,9 +18,29 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for performing Randomized version of Quick Sort.
 
+* [Insertion Sort](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Sorting%20Algorithms/insertion_sort.py):
+
+  Python Code for performing Insertion Sort.
+
+* [Bubble Sort](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Sorting%20Algorithms/bubble_sort.py):
+
+  Python Code for performing Bubble Sort.
+
 * [Selection Sort](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Sorting%20Algorithms/selection_sort.py):
 
   Python Code for performing Selection Sort.
+
+* [Linear Search](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Searching%20Algorithms/linear_search.py):
+
+  Python Code for performing Linear Search operation to search for the position of an element in an array.
+
+* [Recursive Binary Search](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Searching%20Algorithms/binary_search_iterative.py):
+
+  Python Code for performing Binary Search operation Recursively to search for the position of an element in an array.
+
+* [Iterative Binary Search](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Searching%20Algorithms/binary_search_recursive.py):
+
+  Python Code for performing Binary Search operation Iteratively to search for the position of an element in an array.
 
 * [Parenthesis Balancing](https://github.com/altruistcoder/Data-Structures-Python/blob/master/parenthesis_balanced_checking.py):
 
