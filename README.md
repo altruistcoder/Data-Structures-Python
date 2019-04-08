@@ -42,6 +42,14 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for performing Binary Search operation Iteratively to search for the position of an element in an array.
 
+* [0-1 Knapsack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/01_knapsack.py):
+
+  Python Code for solving 0-1 Knapsack problem.
+
+* [Fractional Knapsack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/fractional_knapsack.py):
+
+  Python Code for solving Fractional Knapsack problem.
+
 * [Parenthesis Balancing](https://github.com/altruistcoder/Data-Structures-Python/blob/master/parenthesis_balanced_checking.py):
 
   Python Code for chcking the balancing of Parenthesis.
