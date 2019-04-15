@@ -130,7 +130,8 @@ Python Code for performing decreasing frequency-wise sorting of a given array.
 
 Python Code for checking whether it is possible or not to sort the given array by doing atmost one swapping of elements.
 
-* [Rotate Square Matrix by 90 Degrees](https://github.com/altruistcoder/Data-Structures-Python/blob/master/check_one_swap_sort.py):
+
+* [Rotate Square Matrix by 90 Degrees](https://github.com/altruistcoder/Data-Structures-Python/blob/master/90_rotate_square_matrix.py):
 
   
 
