@@ -7,7 +7,6 @@ def findPair(a, n, s):
         if temp >= 0 and temp in h:
             print("Pair with the given sum is", temp, "and", a[i])
         h.add(a[i])
-    print(h)
 
 
 a = list(map(int, input("Enter the values of the array: ").split()))
