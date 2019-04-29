@@ -109,4 +109,9 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for generating the Pythagorean Triplets having values less than a limit entered by a user.
 
+* [Number Occurring Odd no. of Times in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/number_occurring_odd_times.py):
+
+  Python Code for finding the number which occurs odd no. of times in the given array.
+
+
 
