@@ -1,6 +1,6 @@
 from sys import maxsize
 
-# Function to find the contiguous subarray whose sum is maximum and print the starting and ending index if this subarray
+# Function to find the contiguous subarray whose sum is maximum in the array and also print this subarray
 def maxSumSubarray(a, n):
     max_total = -maxsize - 1
     max_curr = 0
