@@ -121,3 +121,7 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for finding the second largest element present in the given array.
 
+* [First Non-Repeating Character in an String](https://github.com/altruistcoder/Data-Structures-Python/blob/master/first_non_repeating_character.py):
+
+  Python Code for finding the first non-repeating character present in the given string.
+
