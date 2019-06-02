@@ -5,6 +5,14 @@ This is a repository containing various python programs to understand the basic 
 
 ## Programs
 
+* [Queue Using Two Stacks](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_using_two_stacks.py):
+
+  Python Code for implementing a queue using two stacks.
+
+* [Queue Using Single Stack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_using_single_stack.py):
+
+  Python Code for implementing a queue using single stack (using recursion).
+
 * [Merge Sort](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Sorting%20Algorithms/merge_sort.py):
 
   Python Code for performing Merge Sort.
