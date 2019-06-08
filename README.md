@@ -13,6 +13,10 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for implementing a queue using a single stack (using recursion).
 
+* [Stack Implementation](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_implementation.py):
+
+  Python Code for implementing a stack.
+
 * [Stack Using Two Queues](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_using_two_queues.py):
 
   Python Code for implementing a stack using two queues.
