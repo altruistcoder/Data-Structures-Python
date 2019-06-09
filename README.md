@@ -5,6 +5,10 @@ This is a repository containing various python programs to understand the basic 
 
 ## Programs
 
+* [Queue Implementation](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_implementation.py):
+
+  Python Code for implementing a Queue.
+
 * [Queue Using Two Stacks](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_using_two_stacks.py):
 
   Python Code for implementing a queue using two stacks.
@@ -15,7 +19,7 @@ This is a repository containing various python programs to understand the basic 
 
 * [Stack Implementation](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_implementation.py):
 
-  Python Code for implementing a stack.
+  Python Code for implementing a Stack.
 
 * [Stack Using Two Queues](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_using_two_queues.py):
 
