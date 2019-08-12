@@ -141,6 +141,10 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for finding the largest contiguous sum present in the given array.
 
+* [Segregate 0s and 1s in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/segregate_0_1.py):
+
+  Python Code for segregating 0s and 1s in the given array.
+
 * [Second Largest Element in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/second_largest_in_array.py):
 
   Python Code for finding the second largest element present in the given array.
