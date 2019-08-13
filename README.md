@@ -153,3 +153,6 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for finding the first non-repeating character present in the given string.
 
+* [Remove Duplicates from a Sorted Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/remove_duplicates_sorted_array.py):
+
+  Python Code for removing duplicate elements present in a sorted array.
