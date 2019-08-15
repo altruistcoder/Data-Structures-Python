@@ -156,3 +156,7 @@ This is a repository containing various python programs to understand the basic 
 * [Remove Duplicates from a Sorted Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/remove_duplicates_sorted_array.py):
 
   Python Code for removing duplicate elements present in a sorted array.
+
+* [Check Binary Representation of a number is Palidrome or not](https://github.com/altruistcoder/Data-Structures-Python/blob/master/binary_palindrome.py):
+
+  Python Code for checking whether binary representation of a number is palindrome or not.
