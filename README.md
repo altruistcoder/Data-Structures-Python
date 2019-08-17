@@ -5,6 +5,21 @@ This is a repository containing various python programs to understand the basic 
 
 ## Programs
 
+* [0-1 Knapsack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/01_knapsack.py):
+
+  Python Code for solving 0-1 Knapsack problem.
+
+
+* [Fractional Knapsack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/fractional_knapsack.py):
+
+  Python Code for solving Fractional Knapsack problem.
+
+
+* [Longest Common Subsequence (LCS)](https://github.com/altruistcoder/Data-Structures-Python/blob/master/lcs.py):
+
+  Python Code for solving Longest Common Subsequence (LCS) problem.
+
+
 * [Queue Implementation](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_implementation.py):
 
   Python Code for implementing a Queue.
@@ -72,16 +87,6 @@ This is a repository containing various python programs to understand the basic 
 * [Iterative Binary Search](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Searching%20Algorithms/binary_search_recursive.py):
 
   Python Code for performing Binary Search operation Iteratively to search for the position of an element in an array.
- 
-
-* [0-1 Knapsack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/01_knapsack.py):
-
-  Python Code for solving 0-1 Knapsack problem.
-
-
-* [Fractional Knapsack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/fractional_knapsack.py):
-
-  Python Code for solving Fractional Knapsack problem.
 
 
 * [Parenthesis Balancing](https://github.com/altruistcoder/Data-Structures-Python/blob/master/parenthesis_balanced_checking.py):
@@ -113,53 +118,66 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for rotating the elements of the matrix by 90 degrees in anti-clockwise direction by transposing the array and reversing the elements column-wise.
 
+
 * [Rotate Square Matrix by 90 Degrees in Clockwise Direction](https://github.com/altruistcoder/Data-Structures-Python/blob/master/90_rotate_square_matrix_clockwise.py):
 
   Python Code for rotating the elements of the matrix by 90 degrees in clockwise direction.
+
 
 * [Finding Pair of Elements with given Sum in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/pair_with_given_sum.py):
 
   Python Code for finding the pair of elements in an array whose sum is equal to a particular sum entered by the user.
 
+
 * [Finding Pair of Elements with given Sum in an Array using Hashing Method](https://github.com/altruistcoder/Data-Structures-Python/blob/master/pair_with_given_sum_hashing.py):
 
   Python Code for finding all the pairs of elements in an array whose sum is equal to a particular sum entered by the user by using the hashing set method.
+
 
 * [Finding the Pythgorean Triplets present in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/find_pythagorean_triplet_in_array.py):
 
   Python Code for finding the triplet of elements present in an array which act as a Pythagorean Triplet.
 
+
 * [Generating the Pythgorean Triplets till a particular Limit](https://github.com/altruistcoder/Data-Structures-Python/blob/master/generate_pythagorean_triplets.py):
 
   Python Code for generating the Pythagorean Triplets having values less than a limit entered by a user.
+
 
 * [Number Occurring Odd no. of Times in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/number_occurring_odd_times.py):
 
   Python Code for finding the number which occurs odd no. of times in the given array.
 
+
 * [Largest Contiguous Sum in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/largest_contiguous_array_sum.py):
 
   Python Code for finding the largest contiguous sum present in the given array.
+
 
 * [Segregate 0s and 1s in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/segregate_0_1.py):
 
   Python Code for segregating 0s and 1s in the given array.
 
+
 * [Second Largest Element in an Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/second_largest_in_array.py):
 
   Python Code for finding the second largest element present in the given array.
+
 
 * [First Non-Repeating Character in an String](https://github.com/altruistcoder/Data-Structures-Python/blob/master/first_non_repeating_character.py):
 
   Python Code for finding the first non-repeating character present in the given string.
 
+
 * [Remove Duplicates from a Sorted Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/remove_duplicates_sorted_array.py):
 
   Python Code for removing duplicate elements present in a sorted array.
 
+
 * [Check Binary Representation of a number is Palidrome or not](https://github.com/altruistcoder/Data-Structures-Python/blob/master/binary_palindrome.py):
 
   Python Code for checking whether binary representation of a number is palindrome or not.
+
 
 * [Check whether two strings are anagrams of each other](https://github.com/altruistcoder/Data-Structures-Python/blob/master/check_anagrams.py):
 
