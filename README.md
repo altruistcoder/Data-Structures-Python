@@ -160,3 +160,8 @@ This is a repository containing various python programs to understand the basic 
 * [Check Binary Representation of a number is Palidrome or not](https://github.com/altruistcoder/Data-Structures-Python/blob/master/binary_palindrome.py):
 
   Python Code for checking whether binary representation of a number is palindrome or not.
+
+* [Check whether two strings are anagrams of each other](https://github.com/altruistcoder/Data-Structures-Python/blob/master/check_anagrams.py):
+
+  Python Code for checking whether two given strings are anagrams of each other.
+
