@@ -25,29 +25,40 @@ This is a repository containing various python programs to understand the basic 
   Python Code for implementing a Linked List.
 
 
+* [Linked List Reversal](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Linked%20List/linked_list_reversal.py):
+
+  Python Code for implementing Linked List reversal.
+
+
 * [Queue Implementation](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_implementation.py):
 
   Python Code for implementing a Queue.
+
 
 * [Queue Using Two Stacks](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_using_two_stacks.py):
 
   Python Code for implementing a queue using two stacks.
 
+
 * [Queue Using Single Stack](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Queue/queue_using_single_stack.py):
 
   Python Code for implementing a queue using a single stack (using recursion).
+
 
 * [Stack Implementation](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_implementation.py):
 
   Python Code for implementing a Stack.
 
+
 * [Stack Using Two Queues](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_using_two_queues.py):
 
   Python Code for implementing a stack using two queues.
 
+
 * [Stack Using Single Queue](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Stack/stack_using_single_queue.py):
 
   Python Code for implementing a stack using a single queue.
+
 
 * [Merge Sort](https://github.com/altruistcoder/Data-Structures-Python/blob/master/Sorting%20Algorithms/merge_sort.py):
 
