@@ -199,3 +199,8 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for checking whether two given strings are anagrams of each other.
 
+
+* [Rotation Count in a Rotated Sorted Array](https://github.com/altruistcoder/Data-Structures-Python/blob/master/rotation_count.py):
+
+  Python Code for finding the rotation count in a rotated sorted array.
+
