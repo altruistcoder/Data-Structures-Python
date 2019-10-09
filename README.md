@@ -204,3 +204,7 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for finding the rotation count in a rotated sorted array.
 
+* [Roads and Libraries Problem](https://github.com/altruistcoder/Data-Structures-Python/blob/master/RoadandLibs.py):
+
+  Python Code for solving a popular problem of the Pavement of Roads to connect to Libraries in the City/Cities.
+
