@@ -208,3 +208,7 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for solving a popular problem of the Pavement of Roads to connect to Libraries in the City/Cities.
 
+* [Minimum Swapping Problem](https://github.com/altruistcoder/Data-Structures-Python/blob/master/minimum_swapping.py):
+
+  Python Code for finding the minimum number of swapping of numbers required to sort the array given as input.
+
