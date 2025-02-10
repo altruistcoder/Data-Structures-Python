@@ -212,3 +212,6 @@ This is a repository containing various python programs to understand the basic 
 
   Python Code for finding the minimum number of swapping of numbers required to sort the array given as input.
 
+* [Consecutive Ones in Zeroes Ones Array Problem](https://github.com/altruistcoder/Data-Structures-Python/blob/master/max_consecutive_ones_zeroes.py):
+
+  Python Code for finding the count of maximum number of consecutive 1's present in an array consisting of a 1's and 0's.

@@ -1,10 +1,9 @@
-def getMaxLength(a, n):
-
+def getMaxConsecutiveOne(a, n):
     c = 0 
     res = 0 
 
     for i in range(0, n):
-        if (arr[i] == 0):
+        if (a[i] == 0):
             c = 0
         else:
             c+= 1 
@@ -13,4 +12,5 @@ def getMaxLength(a, n):
 
 a = list(map(int, input("Enter a list of elements: ").split()))
 n = len(a)
-print(getMaxLength(a, n))
+maxOnes = getMaxConsecutiveOne(a, n)
+print("The maximum number of consecutive ones in the array is:", maxOnes)
